@@ -1,4 +1,31 @@
 [{
+  "id": "50",
+  "name": "凌怡瑶",
+  "classtype": "6",
+  "professional": "软件工程",
+  "intro": "一个不宅的程序猴子。Forever young, forever simple.",
+  "imgsrc": "lly.jpg",
+  "github": "https://github.com/clarkzsd",
+  "blog": "http://www.zhoushidong.cc"
+},{
+  "id": "49",
+  "name": "何熠",
+  "classtype": "6",
+  "professional": "软件工程",
+  "intro": "I am not the best,but I try my best .",
+  "imgsrc": "hy.jpg",
+  "github": "https://github.com/RobinNX",
+  "blog": "#"
+},{
+  "id": "48",
+  "name": "周诗栋",
+  "classtype": "6",
+  "professional": "软件工程",
+  "intro": "一个不宅的程序猴子。Forever young, forever simple.",
+  "imgsrc": "zsd.jpg",
+  "github": "https://github.com/clarkzsd",
+  "blog": "http://www.zhoushidong.cc"
+},{
   "id": "47",
   "name": "金飞燕",
   "classtype": "6",
